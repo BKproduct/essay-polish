@@ -1,0 +1,6 @@
+{
+  "name": "essay-polish",
+  "version": "1.0.0",
+  "description": "Essay editor: argument check, fact-check, reference verification, originality and AI-writing double check through Quetext and Originality.ai connectors.",
+  "author": { "name": "AI Automation Studio" }
+}

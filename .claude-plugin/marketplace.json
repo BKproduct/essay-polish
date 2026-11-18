@@ -1,0 +1,16 @@
+{
+  "name": "essay-polish-marketplace",
+  "owner": {
+    "name": "AI Automation Studio"
+  },
+  "plugins": [
+    {
+      "name": "essay-polish",
+      "source": "./plugins/essay-polish",
+      "description": "Essay editor: argument check, fact-check, reference verification, originality and AI-writing double check through Quetext and Originality.ai connectors."
+    }
+  ],
+  "metadata": {
+    "description": "Essay editor for students: argument check, fact-check, reference verification and a double check with Quetext and Originality.ai."
+  }
+}

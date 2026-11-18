@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "quetext": {
+      "type": "http",
+      "url": "https://www.quetext.com/mcp"
+    },
+    "originality": {
+      "type": "http",
+      "url": "https://mcp.originality.ai/mcp"
+    }
+  }
+}
